@@ -26,6 +26,5 @@ public class FutureTaskExample {
 
 
         //使用Runnable接口
-
     }
 }
